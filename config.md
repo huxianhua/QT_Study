@@ -7,7 +7,7 @@
  * @details     细节
  * @mainpage    工程概览
  * @author      huxianhua
- * @email       huxianhua@zoncare.cn
+ * @email       hu1010@163.com
  * @version     版本号
  * @date        年-月-日
  * @license     版权

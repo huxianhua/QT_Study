@@ -15,3 +15,9 @@ foreach (const QString &family, database.families(QFontDatabase::SimplifiedChine
     qDebug()<<family;
 }
 ```
+# 参考 QFontDatabase
+* [QFontDatabase Class](https://doc.qt.io/qt-5/qfontdatabase.html)
+* enum QFontDatabase::WritingSystem
+
+# tablesgenerator 
+* [表格生成](http://www.tablesgenerator.com/markdown_tables)

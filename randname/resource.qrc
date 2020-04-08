@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/name">
+        <file>resources/百家姓.txt</file>
+        <file>resources/男孩常用名.txt</file>
+        <file>resources/女孩常用名.txt</file>
+    </qresource>
+</RCC>
